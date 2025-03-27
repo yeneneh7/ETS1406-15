@@ -1,1 +1,13 @@
 
+
+S = "cat"
+print(S.islower())  # Output: True
+
+Ss = Cat"
+print(Ss.islower())  # Output: False
+
+Sss = "car123"
+print(Sss.islower())  # Output: True
+
+empty_string = ""
+print(empty_string.islower())  # Output: False
