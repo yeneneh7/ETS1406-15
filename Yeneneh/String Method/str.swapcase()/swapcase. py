@@ -1,0 +1,7 @@
+s = "MAN cames"
+
+swapped_s = s.swapcase()
+
+# Print the result
+print(swapped_s)  # Output: "man CAMES"
+
