@@ -1,0 +1,7 @@
+word = "big dogs"
+
+# Convert to capitalize
+capitalized_word = word.capitalize()
+
+# Print the result
+print(capitalized_word)  # Output: "Big dogs"
