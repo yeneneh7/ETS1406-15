@@ -1,0 +1,1 @@
+The str.find() method in Python is used to locate the first occurrence of a specified substring within a string. It returns the index of the first occurrence of the substring if found, or -1 if the substring is not found.
