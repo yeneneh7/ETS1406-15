@@ -1,1 +1,1 @@
-method to creat copy
+copy() is method to creat copy
