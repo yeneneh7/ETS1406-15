@@ -1,0 +1,4 @@
+set is unorderd,unique but mutable collection of unique elements
+-unorderd means elements in srt do not have specific order
+-unique means no duplicated elements
+-mutable means you can add remove elements in set
