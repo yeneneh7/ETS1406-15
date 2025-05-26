@@ -1,0 +1,3 @@
+Tuple is an order,immutable sequence of elements
+-order:elements in tuple have a specific order and that order is preserved
+-Immutable: once a tuple is created,you can not change its content,you cant add,remove,or modify element in the tuple
